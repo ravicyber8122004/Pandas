@@ -1,0 +1,12 @@
+1 - Colums,rows ?
+2 - What tyoe of ?
+3 - Missing data ?
+
+info()
+method
+
+-> No. of rows and column
+-> Column Name
+-> int64 float64 object
+-> non null counts
+-> memory usage of the data frame
